@@ -1,0 +1,6 @@
+name: use-totem-flag
+version: '${version}'
+main: net.haraxx.usetotemflag.TotemFlagPlugin
+api-version: '1.18'
+depend:
+  - WorldGuard
